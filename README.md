@@ -99,7 +99,7 @@ d. 软件工程工具和方法 Software Engineering Tools and Methods
  
  ## 解释 PSP 各项指标及技能要求：
  
- ![image]()
+ ![image](https://github.com/lqAsuna/Some-Points-of-Software-Engineering/blob/master/image/image1.png)
  
 需要的技能：
     良好的编码能力。软件人员的一个重要职责是把用户的需求功能用某种计算机语言予以实现。编码能力直接决定了项目开发的效率。这就要求软件工程师至少精通一门编程语言，比如当前国内企业常用的C/C++、VB和国际上最流行的Java语言，熟悉它的基本语法、技术特点和API(应用程序接口)。
